@@ -34,7 +34,7 @@ console.log();
 console.log(`Balance of xavier is ${Ethereum.getBalanceOfAddress(myWalletAddress)}`);
 
 // Uncomment this line if you want to test tampering with the chain
-// Ethereum.chain[1].transactions[0].amount = 10;
+Ethereum.chain[1].transactions[0].amount = 10;
 
 // Check if the chain is valid
 console.log();

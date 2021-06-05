@@ -25,7 +25,7 @@ Ethereum.minePendingTransactions(myWalletAddress);
 // Create second transaction
 const tx2 = new Transaction(myWalletAddress, 'address1', 50);
 tx2.signTransaction(myKey);
-Ethereum.addTransaction(tx2);
+Ethereum.addTransaction(tx2);npm
 
 // Mine block
 Ethereum.minePendingTransactions(myWalletAddress);

@@ -1,5 +1,5 @@
 {
-  "name": "Ethereum",
+  "name": "savjeecoin",
   "version": "1.0.1",
   "description": "Simple Blockchain implementation in Javascript. For educational purposes only.",
   "keywords": [
@@ -15,11 +15,11 @@
   },
   "author": "Xavier Decuyper <hi@savjee.be>",
   "license": "MIT",
-  "repository": "github:SavjeeTutorials/Ethereum",
+  "repository": "github:SavjeeTutorials/SavjeeCoin",
   "bugs": {
-    "url": "https://github.com/SavjeeTutorials/Ethereum/issues"
+    "url": "https://github.com/SavjeeTutorials/SavjeeCoin/issues"
   },
-  "homepage": "https://github.com/SavjeeTutorials/Ethereum",
+  "homepage": "https://github.com/SavjeeTutorials/SavjeeCoin",
   "dependencies": {
     "crypto-js": "^4.0.0",
     "debug": "^4.1.1",
